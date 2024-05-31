@@ -53,9 +53,6 @@ https://github.com/rocksdanister/weather/assets/17554161/350d1b69-0d05-4f2f-ae1b
 - Create depth background effects using AI.
 - Fullscreen mode.
 
-## Download
-
-https://apps.microsoft.com/store/detail/9PP0MFQFVSC5
 
 ## Building
 
