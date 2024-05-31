@@ -12,7 +12,6 @@
 
 - [About](#about)
 - [Features](#features)
-- [Download](#download)
 - [Building](#building)
 
 ## About
